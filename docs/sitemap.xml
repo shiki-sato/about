@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiki-sato.github.io/projects/hodhod/</loc>
+    <loc>https://shiki-sato.github.io/about/projects/hodhod/</loc>
     <lastmod>2019-08-26T16:36:11+04:30</lastmod>
   </url>
   
   <url>
-    <loc>https://shiki-sato.github.io/publications/mybestpaper/</loc>
+    <loc>https://shiki-sato.github.io/about/publications/mybestpaper/</loc>
     <lastmod>2019-08-26T16:36:11+04:30</lastmod>
   </url>
   
   <url>
-    <loc>https://shiki-sato.github.io/categories/</loc>
+    <loc>https://shiki-sato.github.io/about/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiki-sato.github.io/projects/</loc>
-    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shiki-sato.github.io/publications/</loc>
+    <loc>https://shiki-sato.github.io/about/projects/</loc>
     <lastmod>2019-08-26T16:36:11+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiki-sato.github.io/</loc>
+    <loc>https://shiki-sato.github.io/about/publications/</loc>
     <lastmod>2019-08-26T16:36:11+04:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shiki-sato.github.io/tags/</loc>
+    <loc>https://shiki-sato.github.io/about/</loc>
+    <lastmod>2019-08-26T16:36:11+04:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiki-sato.github.io/about/tags/</loc>
     <priority>0</priority>
   </url>
   
