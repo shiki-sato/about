@@ -1,4 +1,4 @@
-baseURL = "https://shiki-sato.github.io"
+baseURL = "https://shiki-sato.github.io/about"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Shiki Sato"
