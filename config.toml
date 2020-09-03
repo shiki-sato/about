@@ -1,0 +1,87 @@
+baseURL = "https://shiki-sato.github.io"
+piblishDIR = "docs"
+languageCode = "en-us"
+title = "Shiki Sato"
+theme = "avicenna"
+googleAnalytics = "UA-1234-6"
+timeout=3000
+
+[params]
+  subtitle= "佐藤志貴"
+  interests="Machine learning for natural language processing, Evaluation for dialogue system"
+  cv_name= ""
+  blog=""
+
+[[params.affilation]]
+  name = "Tohoku University Graduate School of Information Science"
+  position = "M2"
+  contact = "shiki.sato@ecei.tohoku.ac.jp"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "github"
+  url = "https://github.com/shiki-sato"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "twitter"
+  url = "https://twitter.com/shiki_satou"
+
+[[params.introduction.paragraph]]
+  text="A master student of [Inui-Suzuki (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019."
+
+[[params.publications]]
+  year= "　International"
+
+  [[params.publications.paper]]
+    name = "Evaluating Dialogue Generation Systems via Response Selection"
+    authors = "Shiki Sato, Reina Akama, Hiroki Ouchi, Jun Suzuki and Kentaro Inui"
+    dest  = "ACL 2020"
+    link = "https://www.aclweb.org/anthology/2020.acl-main.55/"
+    code_link = "https://github.com/cl-tohoku/eval-via-selection"
+
+[[params.publications]]
+  year="　Domestic"
+
+  [[params.publications.paper]]
+    name = "対話応答選択による対話応答生成モデルの評価"
+    authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "言語処理学会第26回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D6-3.pdf"
+
+  [[params.publications.paper]]
+    name = "負例を厳選した対話応答選択データセット構築の試みと分析"
+    authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第87回研究会 (第10回対話システムシンポジウム)"
+    link = "https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10564&item_no=1&page_id=13&block_id=23"
+
+  [[params.publications.paper]]
+    name = "負例を厳選した対話応答選択データセットの構築"
+    authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "第14回NLP若手の会 シンポジウム (YANS)"
+    link = "https://drive.google.com/file/d/1pi0hwshfYGEihFTFR6TPNB5ca_ZweNwG/view"
+
+  [[params.publications.paper]]
+    name = "フレーズ単位の発話応答ペアを⽤いた対話応答⽣成の多様化"
+    authors = "佐藤志貴, 大内啓樹, 井之上直也, 鈴木潤, 乾健太郎"
+    dest  = "言語処理学会第25回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/B5-3.pdf"
+
+  [[params.publications.paper]]
+    name = "Zunkobot: 複数の知識モジュールを統合した雑談対話システム"
+    authors = "阿部香央莉, 佐藤志貴, 佐藤拓海, 藤井諒, 松田耕史, 鈴木正敏, 山口健史, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第84回研究会 (第9回対話システムシンポジウム)"
+    link = "https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9639&item_no=1&page_id=13&block_id=23"
+
+[[params.publications]]
+  year = "Awards"
+
+  [[params.publications.paper]]
+	name = "Dec.2019"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第87回研究会 (第10回対話システムシンポジウム) 若手萌芽ポスター賞受賞"
+  [[params.publications.paper]]
+    name = "Mar.2018"
+    dest = "東北大学 工学部長賞"
+  [[params.publications.paper]]
+    name = "Nov.2018"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第84回研究会 (第9回対話システムシンポジウム) 第1回対話システムライブコンペティション 優秀賞受賞(第3位)"
