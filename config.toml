@@ -1,5 +1,5 @@
 baseURL = "https://shiki-sato.github.io"
-piblishDIR = "docs"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Shiki Sato"
 theme = "avicenna"
