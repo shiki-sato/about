@@ -44,6 +44,34 @@ timeout=3000
   year="　Domestic"
 
   [[params.publications.paper]]
+    name = "対話システムの矛盾応答の生成に対する脆弱性の分析"
+    authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "原語処理学会第27回年次大会"
+
+  [[params.publications.paper]]
+    name = "対話システムの先読み能力を分析可能なタスクの検討"
+    authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 鈴木潤, 乾健太郎"
+    dest  = "原語処理学会第27回年次大会"
+
+  [[params.publications.paper]]
+    name = "ILYS aoba bot: 大規模ニューラル応答生成モデルとルールベースを統合した雑談対話システム"
+    authors = "藤原吏生, 岸波洋介, 今野颯人, 佐藤志貴, 佐藤汰亮, 宮脇峻平, 加藤拓真, 鈴木潤, 乾健太郎"
+    dest  = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第90回研究会 (第11回対話システムシンポジウム)"
+    link = "https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=10933&item_no=1&page_id=13&block_id=23"
+
+  [[params.publications.paper]]
+    name = "未来の文脈を利用した対話応答生成"
+    authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 鈴木潤, 乾健太郎"
+    dest  = "第15回NLP若手の会 シンポジウム (YANS)"
+    link = "https://yans.anlp.jp/entry/yans2020program"
+
+  [[params.publications.paper]]
+    name = "Evaluating Dialogue Generation Systems via Response Selection"
+    authors = "佐藤志貴"
+    dest  = "会誌「自然言語処理」, Vol.33, No.3, pp.677-682"
+    link = "https://www.anlp.jp/abst/vol27/no3.html" 
+
+  [[params.publications.paper]]
     name = "対話応答選択による対話応答生成モデルの評価"
     authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
     dest  = "言語処理学会第26回年次大会"
@@ -75,7 +103,12 @@ timeout=3000
 
 [[params.publications]]
   year = "Awards"
-
+  [[params.publications.paper]]
+	name = "Dec.2021"
+    dest = "言語処理学会第27回年次大会 委員特別賞"
+  [[params.publications.paper]]
+	name = "Dec.2020"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第90回研究会 (第10回対話システムシンポジウム) 第3回対話システムライブコンペティション 優秀賞受賞(第2位)"
   [[params.publications.paper]]
 	name = "Dec.2019"
     dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第87回研究会 (第10回対話システムシンポジウム) 若手萌芽ポスター賞受賞"
