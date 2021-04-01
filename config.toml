@@ -14,7 +14,7 @@ timeout=3000
 
 [[params.affilation]]
   name = "Tohoku University Graduate School of Information Science"
-  position = "M2"
+  position = "D1"
   contact = "shiki.sato@ecei.tohoku.ac.jp"
 
 [[params.social]]
@@ -28,7 +28,7 @@ timeout=3000
   url = "https://twitter.com/shiki_satou"
 
 [[params.introduction.paragraph]]
-  text="A master student of [Inui-Suzuki (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019."
+  text="A doctor student of [Inui-Suzuki (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, and M.IS. degree from Tohoku University Graduate School of Information Science in 2021."
 
 [[params.publications]]
   year= "　International"
@@ -104,7 +104,7 @@ timeout=3000
 [[params.publications]]
   year = "Awards"
   [[params.publications.paper]]
-	name = "Dec.2021"
+	name = "Mar.2021"
     dest = "言語処理学会第27回年次大会 委員特別賞"
   [[params.publications.paper]]
 	name = "Dec.2020"
