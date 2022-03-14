@@ -15,7 +15,7 @@ timeout=3000
 [[params.affilation]]
   name = "Tohoku University Graduate School of Information Science"
   position = "D1"
-  contact = "shiki.sato@ecei.tohoku.ac.jp"
+  contact = "shiki.sato.d1@tohoku.ac.jp"
 
 [[params.social]]
   name = "GitHub"
@@ -28,10 +28,24 @@ timeout=3000
   url = "https://twitter.com/shiki_satou"
 
 [[params.introduction.paragraph]]
-  text="A doctor student of [Inui-Suzuki (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, and M.IS. degree from Tohoku University Graduate School of Information Science in 2021."
+  text="A doctor student of [Inui (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, and M.IS. degree from Tohoku University Graduate School of Information Science in 2021."
 
 [[params.publications]]
-  year= "　International"
+  year= "　Journal, Article"
+
+  [[params.publications.paper]]
+    name = "負例を厳選した対話応答選択による対話応答生成システムの評価"
+    authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
+    dest  = "会誌「自然言語処理」, Vol.29, No.1"
+
+  [[params.publications.paper]]
+    name = "Evaluating Dialogue Generation Systems via Response Selection"
+    authors = "佐藤志貴"
+    dest  = "会誌「自然言語処理」, Vol.27, No.3, pp.677-682"
+    link = "https://www.anlp.jp/abst/vol27/no3.html"
+
+[[params.publications]]
+  year= "　International Conference"
 
   [[params.publications.paper]]
     name = "Evaluating Dialogue Generation Systems via Response Selection"
@@ -41,17 +55,47 @@ timeout=3000
     code_link = "https://github.com/cl-tohoku/eval-via-selection"
 
 [[params.publications]]
-  year="　Domestic"
+  year="　Domestic Conference"
+
+  [[params.publications.paper]]
+    name = "話題提供雑談システムにおける感情と意見の表出方法の検討"
+    authors = "成田風香, 佐藤志貴, 徳久良子, 乾健太郎"
+    dest = "言語処理学会第28回年次大会"
+
+  [[params.publications.paper]]
+    name = "多様な話者との自動対話に基づく雑談システムの自動評価"
+    authors = "＊佐藤志貴, ＊岸波洋介, 杉山弘晃, 赤間怜奈, 徳久良子, 鈴木潤 (＊: 共同主著)"
+    dest = "言語処理学会第28回年次大会"
+
+  [[params.publications.paper]]
+    name = "対話システムライブコンペティション4"
+    link = "https://www.jstage.jst.go.jp/article/jsaislud/93/0/93_92/_article/-char/ja"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第93回研究会 (第12回対話システムシンポジウム)"
+    authors = "東中竜一郎, 船越孝太郎, 高橋哲朗, 稲葉通将, 赤間怜奈, 佐藤志貴, 堀内颯太, ドルサテヨルス, 小室允人, 西川寛之, 宇佐美まゆみ"
+
+  [[params.publications.paper]]
+    name = "aoba_v2 bot: 多様な応答生成モジュールを統合した雑談対話システム"
+    authors = "長澤春希, 工藤慧音, 宮脇峻平, 有山知希, 成田風香, 岸波洋介, 佐藤志貴, 乾健太郎"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第93回研究会 (第12回対話システムシンポジウム)"
+    link = "https://www.jstage.jst.go.jp/article/jsaislud/93/0/93_101/_article/-char/ja/"
+
+  [[params.publications.paper]]
+    name = "目標指向対話のためのサブゴール設計に基づく発話系列生成"
+    authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 徳久良子, 鈴木潤, 乾健太郎"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第93回研究会 (第12回対話システムシンポジウム)"
+    link = "https://www.jstage.jst.go.jp/article/jsaislud/93/0/93_70/_article/-char/ja/"
 
   [[params.publications.paper]]
     name = "対話システムの矛盾応答の生成に対する脆弱性の分析"
     authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
-    dest  = "原語処理学会第27回年次大会"
+    dest  = "言語処理学会第27回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B9-1.pdf"
 
   [[params.publications.paper]]
     name = "対話システムの先読み能力を分析可能なタスクの検討"
     authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 鈴木潤, 乾健太郎"
-    dest  = "原語処理学会第27回年次大会"
+    dest  = "言語処理学会第27回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B9-2.pdf"
 
   [[params.publications.paper]]
     name = "ILYS aoba bot: 大規模ニューラル応答生成モデルとルールベースを統合した雑談対話システム"
@@ -64,12 +108,6 @@ timeout=3000
     authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 鈴木潤, 乾健太郎"
     dest  = "第15回NLP若手の会 シンポジウム (YANS)"
     link = "https://yans.anlp.jp/entry/yans2020program"
-
-  [[params.publications.paper]]
-    name = "Evaluating Dialogue Generation Systems via Response Selection"
-    authors = "佐藤志貴"
-    dest  = "会誌「自然言語処理」, Vol.33, No.3, pp.677-682"
-    link = "https://www.anlp.jp/abst/vol27/no3.html" 
 
   [[params.publications.paper]]
     name = "対話応答選択による対話応答生成モデルの評価"
@@ -104,13 +142,16 @@ timeout=3000
 [[params.publications]]
   year = "Awards"
   [[params.publications.paper]]
-	name = "Mar.2021"
+    name = "Nov.2021"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第93回研究会 (第12回対話システムシンポジウム) 第4回対話システムライブコンペティション 優秀賞受賞(第3位)"
+  [[params.publications.paper]]
+	  name = "Mar.2021"
     dest = "言語処理学会第27回年次大会 委員特別賞"
   [[params.publications.paper]]
-	name = "Dec.2020"
+	  name = "Dec.2020"
     dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第90回研究会 (第10回対話システムシンポジウム) 第3回対話システムライブコンペティション 優秀賞受賞(第2位)"
   [[params.publications.paper]]
-	name = "Dec.2019"
+	  name = "Dec.2019"
     dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第87回研究会 (第10回対話システムシンポジウム) 若手萌芽ポスター賞受賞"
   [[params.publications.paper]]
     name = "Mar.2018"
