@@ -48,6 +48,11 @@ timeout=3000
   year= "　International Conference"
 
   [[params.publications.paper]]
+    name = "N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models"
+    authors = "Shiki Sato, Reina Akama, Hiroki Ouchi, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui"
+    dest = "SIGDIAL 2022"
+
+  [[params.publications.paper]]
     name = "Evaluating Dialogue Generation Systems via Response Selection"
     authors = "Shiki Sato, Reina Akama, Hiroki Ouchi, Jun Suzuki and Kentaro Inui"
     dest  = "ACL 2020"
