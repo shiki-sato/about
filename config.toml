@@ -14,7 +14,7 @@ timeout=3000
 
 [[params.affilation]]
   name = "Tohoku University Graduate School of Information Science"
-  position = "D1"
+  position = "D2"
   contact = "shiki.sato.d1@tohoku.ac.jp"
 
 [[params.social]]
