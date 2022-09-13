@@ -59,6 +59,11 @@ timeout=3000
     link = "https://www.aclweb.org/anthology/2020.acl-main.55/"
     code_link = "https://github.com/cl-tohoku/eval-via-selection"
 
+  [[params.publications.paper]]
+    name = "Target-Guided Open-Domain Conversation Planning"
+    authors = "Yosuke Kishinami, Reina Akama, Shiki Sato, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui"
+    dest  = "COLING 2022"
+
 [[params.publications]]
   year="　Domestic Conference"
 
