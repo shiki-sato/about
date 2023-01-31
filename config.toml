@@ -48,7 +48,6 @@ timeout=3000
   year= "　International Conference"
 
   [[params.publications.paper]]
-    name = "N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models"
     name = "Bipartite-play Dialogue Collection for Versatile and Practical Automatic Dialogues Evaluation"
     authors = "Shiki Sato*, Yosuke Kishinami*, Hiroaki Sugiyama, Reina Akama, Ryoko Tokuhisa and Jun Suzuki (*: contributed equally)"
     dest = "AACL-IJCNLP SRW 2022"
