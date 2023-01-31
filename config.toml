@@ -37,6 +37,7 @@ timeout=3000
     name = "負例を厳選した対話応答選択による対話応答生成システムの評価"
     authors = "佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎"
     dest  = "会誌「自然言語処理」, Vol.29, No.1"
+    link = "https://www.jstage.jst.go.jp/article/jnlp/29/1/29_53/_article/-char/ja"
 
   [[params.publications.paper]]
     name = "Evaluating Dialogue Generation Systems via Response Selection"
@@ -51,11 +52,13 @@ timeout=3000
     name = "Bipartite-play Dialogue Collection for Versatile and Practical Automatic Dialogues Evaluation"
     authors = "Shiki Sato*, Yosuke Kishinami*, Hiroaki Sugiyama, Reina Akama, Ryoko Tokuhisa and Jun Suzuki (*: contributed equally)"
     dest = "AACL-IJCNLP SRW 2022"
+    link = "https://aclanthology.org/2022.aacl-srw.2/"
 
   [[params.publications.paper]]
     name = "N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models"
     authors = "Shiki Sato, Reina Akama, Hiroki Ouchi, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui"
     dest = "SIGDIAL 2022"
+    link = "https://aclanthology.org/2022.sigdial-1.60/"
 
   [[params.publications.paper]]
     name = "Evaluating Dialogue Generation Systems via Response Selection"
@@ -68,19 +71,28 @@ timeout=3000
     name = "Target-Guided Open-Domain Conversation Planning"
     authors = "Yosuke Kishinami, Reina Akama, Shiki Sato, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui"
     dest  = "COLING 2022"
+    link = "https://aclanthology.org/2022.coling-1.55/"
 
 [[params.publications]]
   year="　Domestic Conference"
 
   [[params.publications.paper]]
+    name = "対話システムライブコンペティション5"
+    authors = "東中竜一郎, 高橋哲朗, 堀内颯太, 稲葉通将, 佐藤志貴, 船越孝太郎, 小室允人, 西川寛之, 宇佐美まゆみ, 港隆史, 境くりま, 船山智"
+    dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第96回研究会 (第13回対話システムシンポジウム)"
+    link = "https://www.jstage.jst.go.jp/article/jsaislud/96/0/96_19/_article/-char/ja/"
+
+  [[params.publications.paper]]
     name = "話題提供雑談システムにおける感情と意見の表出方法の検討"
     authors = "成田風香, 佐藤志貴, 徳久良子, 乾健太郎"
     dest = "言語処理学会第28回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B5-1.pdf"
 
   [[params.publications.paper]]
     name = "多様な話者との自動対話に基づく雑談システムの自動評価"
     authors = "＊佐藤志貴, ＊岸波洋介, 杉山弘晃, 赤間怜奈, 徳久良子, 鈴木潤 (＊: 共同主著)"
     dest = "言語処理学会第28回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B5-5.pdf"
 
   [[params.publications.paper]]
     name = "対話システムライブコンペティション4"
