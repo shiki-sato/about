@@ -31,7 +31,7 @@ timeout=3000
   text="A doctor student of [Inui (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, and M.IS. degree from Tohoku University Graduate School of Information Science in 2021."
 
 [[params.publications]]
-  year= "　Journal, Article"
+  year= "　Journal"
 
   [[params.publications.paper]]
     name = "負例を厳選した対話応答選択による対話応答生成システムの評価"
@@ -39,6 +39,8 @@ timeout=3000
     dest  = "会誌「自然言語処理」, Vol.29, No.1"
     link = "https://www.jstage.jst.go.jp/article/jnlp/29/1/29_53/_article/-char/ja"
 
+[[params.publications]]
+  year= "　Article"
   [[params.publications.paper]]
     name = "Evaluating Dialogue Generation Systems via Response Selection"
     authors = "佐藤志貴"
@@ -75,6 +77,30 @@ timeout=3000
 
 [[params.publications]]
   year="　Domestic Conference"
+
+  [[params.publications.paper]]
+    name = "Follow-up 質問による矛盾応答収集の提案"
+    authors = "佐藤志貴, 赤間怜奈, 鈴木潤, 乾健太郎"
+    dest = "言語処理学会第29回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H2-1.pdf"
+
+  [[params.publications.paper]]
+    name = "人間同士の雑談における話題遷移モデリング"
+    authors = "岸波洋介, 赤間怜奈, 佐藤志貴, 徳久良子, 鈴木潤, 乾健太郎"
+    dest = "言語処理学会第29回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H2-5.pdf"
+
+  [[params.publications.paper]]
+    name = "感想付きニュース雑談対話コーパスの構築"
+    authors = "成田風香, 佐藤志貴, 赤間怜奈, 乾健太郎"
+    dest = "言語処理学会第29回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H1-5.pdf"
+
+  [[params.publications.paper]]
+    name = "程度を考慮したフォーマリティ変換のためのデータセットの収集と分析"
+    authors = "守屋彰二, 岸波洋介, 佐藤志貴, 徳久良子, 乾健太郎"
+    dest = "言語処理学会第29回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D2-3.pdf"
 
   [[params.publications.paper]]
     name = "対話システムライブコンペティション5"
@@ -168,6 +194,9 @@ timeout=3000
 
 [[params.publications]]
   year = "Awards"
+  [[params.publications.paper]]
+    name = "Mar.2023"
+    dest = "言語処理学会2022年度最優秀論文賞"
   [[params.publications.paper]]
     name = "Nov.2021"
     dest = "人工知能学会 言語・音声理解と対話処理研究会(SLUD) 第93回研究会 (第12回対話システムシンポジウム) 第4回対話システムライブコンペティション 優秀賞受賞(第3位)"
