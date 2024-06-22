@@ -13,8 +13,7 @@ timeout=3000
   blog=""
 
 [[params.affilation]]
-  name = "Tohoku University Graduate School of Information Science"
-  position = "D2"
+  name = "AI Lab Research Scientist @ CyberAgent, Inc.  /  Academic Researcher @ Tohoku University"
   contact = "shiki.sato.d1@tohoku.ac.jp"
 
 [[params.social]]
@@ -51,6 +50,12 @@ timeout=3000
   year= "　International Conference"
 
   [[params.publications.paper]]
+    name = "A Large Collection of Model-generated Contradictory Responses for Consistency-aware Dialogue Systems"
+    authors = "Shiki Sato, Reina Akama, Jun Suzuki, Kentaro Inui"
+    dest = "ACL 2024 findings"
+    link = "https://aclanthology.org/2022.aacl-srw.2/"
+
+  [[params.publications.paper]]
     name = "Bipartite-play Dialogue Collection for Versatile and Practical Automatic Dialogues Evaluation"
     authors = "Shiki Sato*, Yosuke Kishinami*, Hiroaki Sugiyama, Reina Akama, Ryoko Tokuhisa and Jun Suzuki (*: contributed equally)"
     dest = "AACL-IJCNLP SRW 2022"
@@ -70,6 +75,11 @@ timeout=3000
     code_link = "https://github.com/cl-tohoku/eval-via-selection"
 
   [[params.publications.paper]]
+    name = "Dialogue System Live Competition Goes Multimodal: Analyzing the Effects of Multimodal Information in Situated Dialogue Systems"
+    authors = "Ryuichiro Higashinaka, Tetsuro Takahashi, Michimasa Inaba, Zhiyang Qi, Yuta Sasaki, Kotrao Funakoshi, Shoji Moriya, Shiki Sato, Takashi Minato, Kurima Sakai, Tomo Funayama, Masato Komuro, Hiroyuki Nishikawa, Ryosaku Makino, Hirofumi Kikuchi, Mayumi Usami"
+    dest  = "IWSDS 2024"
+
+  [[params.publications.paper]]
     name = "Target-Guided Open-Domain Conversation Planning"
     authors = "Yosuke Kishinami, Reina Akama, Shiki Sato, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui"
     dest  = "COLING 2022"
@@ -77,6 +87,30 @@ timeout=3000
 
 [[params.publications]]
   year="　Domestic Conference"
+
+  [[params.publications.paper]]
+    name = "雑談応答生成モデルによる矛盾応答の大規模収集"
+    authors = "佐藤志貴, 赤間怜奈, 鈴木潤, 乾健太郎"
+    dest = "言語処理学会第30回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B11-1.pdf"
+
+  [[params.publications.paper]]
+    name = "選択性を考慮した語彙エントレインメント尺度"
+    authors = "守屋彰二, 佐藤志貴, 徳久良子, 赤間怜奈, 横井祥, 乾健太郎"
+    dest = "言語処理学会第30回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D7-4.pdf"
+
+  [[params.publications.paper]]
+    name = "実際の人々の感想を利用した雑談発話生成"
+    authors = "成田風香, 佐藤志貴, 徳久良子, 乾健太郎"
+    dest = "言語処理学会第30回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-25.pdf"
+
+  [[params.publications.paper]]
+    name = "LLMを用いた文脈考慮による攻撃性検出性能の改善"
+    authors = "中野雄斗, 佐藤志貴, 赤間怜奈"
+    dest = "言語処理学会第30回年次大会"
+    link = "https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P2-26.pdf"
 
   [[params.publications.paper]]
     name = "Follow-up 質問による矛盾応答収集の提案"
