@@ -13,8 +13,14 @@ timeout=3000
   blog=""
 
 [[params.affilation]]
+<<<<<<< HEAD
+  name = "Academic Researcher @ Tohoku University"
+  contact = "sato_shiki@cyberagent.co.jp"
+  position = "AI Lab Research Scientist @ CyberAgent Inc."
+=======
   name = "AI Lab Research Scientist @ CyberAgent, Inc.  /  Academic Researcher @ Tohoku University"
   contact = "shiki.sato.d1@tohoku.ac.jp"
+>>>>>>> 553d11d7371f65e636301af63b2da02022a5eb5c
 
 [[params.social]]
   name = "GitHub"
@@ -27,7 +33,7 @@ timeout=3000
   url = "https://twitter.com/shiki_satou"
 
 [[params.introduction.paragraph]]
-  text="A doctor student of [Inui (Natural Language Processing) Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, and M.IS. degree from Tohoku University Graduate School of Information Science in 2021."
+  text="A Researcher at [AI Lab of CyberAgent, Inc.](https://research.cyberagent.ai/) and [Fai Lab of Tohoku University](https://www.fai.cds.tohoku.ac.jp/), received B.Eng. degree from Tohoku University in 2019, M.IS. degree from Tohoku University Graduate School of Information Science in 2021, and D.IS. degree from Tohoku University Graduate School of Information Science in 2024."
 
 [[params.publications]]
   year= "　Journal"
