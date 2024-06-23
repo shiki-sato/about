@@ -4,8 +4,7 @@
     <title>Categories on Shiki Sato</title>
     <link>https://shiki-sato.github.io/about/categories/</link>
     <description>Recent content in Categories on Shiki Sato</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://shiki-sato.github.io/about/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://shiki-sato.github.io/about/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
